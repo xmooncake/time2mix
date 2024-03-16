@@ -1,4 +1,14 @@
-include: package:very_good_analysis/analysis_options.5.1.0.yaml
+include: package:lint/strict.yaml # For production apps
+# include: package:lint/casual.yaml # For code samples, hackathons and other non-production code
+# include: package:lint/package.yaml # Use this for packages with public API
+
+analyzer:
+  exclude:
+    - '**.freezed.dart'
+    - '**.g.dart'
+
 linter:
   rules:
-    public_member_api_docs: false
+    avoid_classes_with_only_static_members: true
+    sort_constructors_first: true
+    prefer_single_quotes: true
