@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:time2mix/features/app/app_router.dart';
-import 'package:time2mix/l10n/l10n.dart';
+import 'package:time2mix/services/l10n/l10n.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
