@@ -111,9 +111,6 @@ app.*.map.json
 !.idea/dictionaries/
 !.idea/runConfigurations/
 
-# Firebase
-firebase_options.dart
-
 # Envify
 .en*
 !.env.example
