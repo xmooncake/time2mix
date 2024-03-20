@@ -112,10 +112,9 @@ app.*.map.json
 !.idea/runConfigurations/
 
 # Envify
-.env*
+.en*
 !.env.example
 
-env.dart
 env.g.dart
 
 
