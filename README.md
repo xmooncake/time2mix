@@ -6,6 +6,8 @@
 
 <h3>Flutter-based mobile app that leverages Google Gemini for discovering and matching cocktail recipes. Users can search for recipes or input available ingredients to find suitable cocktail options.</h3>
 
+<br>
+
 <div align="center">
 🚧 **Work in Progress** 🚧
 
