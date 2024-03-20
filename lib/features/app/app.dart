@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:time2mix/features/app/app_router.dart';
 import 'package:time2mix/l10n/l10n.dart';
 

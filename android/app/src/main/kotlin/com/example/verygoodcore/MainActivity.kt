@@ -1,4 +1,4 @@
-package com.example.verygoodcore.time2mix
+package com.time2mix.time2mix
 
 import io.flutter.embedding.android.FlutterActivity
 
