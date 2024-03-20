@@ -110,3 +110,12 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+# Envify
+.env*
+!.env.example
+
+env.dart
+env.g.dart
+
+
