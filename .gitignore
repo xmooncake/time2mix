@@ -112,8 +112,11 @@ app.*.map.json
 !.idea/runConfigurations/
 
 # Envify
-.en*
+.env*
 !.env.example
-
 env.g.dart
+
+# Firebase
+google-services.json
+
 
