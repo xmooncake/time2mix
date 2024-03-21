@@ -15,14 +15,14 @@ abstract class Env {
   @EnviedField(varName: 'FIREBASE_API_ID_ANDROID')
   static String firebaseApiIdAndroid = _Env.firebaseApiIdAndroid;
 
-  @EnviedField(varName: 'FIREBASE_API_KEY_IOS')
-  static String firebaseApiKeyIos = _Env.firebaseApiKeyIos;
+  // @EnviedField(varName: 'FIREBASE_API_KEY_IOS')
+  // static String firebaseApiKeyIos = _Env.firebaseApiKeyIos;
 
-  @EnviedField(varName: 'FIREBASE_API_ID_IOS')
-  static String firebaseApiIdIos = _Env.firebaseApiIdIos;
+  // @EnviedField(varName: 'FIREBASE_API_ID_IOS')
+  // static String firebaseApiIdIos = _Env.firebaseApiIdIos;
 
-  @EnviedField(varName: 'FIREBASE_API_BUNDLEID_IOS')
-  static String firebaseApiBundleIdIos = _Env.firebaseApiBundleIdIos;
+  // @EnviedField(varName: 'FIREBASE_API_BUNDLEID_IOS')
+  // static String firebaseApiBundleIdIos = _Env.firebaseApiBundleIdIos;
 
   @EnviedField(varName: 'FIREBASE_API_MESSAGING_SENDER_ID')
   static String firebaseApiMessagingSenderId =
