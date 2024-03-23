@@ -12,3 +12,4 @@ linter:
     avoid_classes_with_only_static_members: true
     sort_constructors_first: true
     prefer_single_quotes: true
+    directives_ordering: false
