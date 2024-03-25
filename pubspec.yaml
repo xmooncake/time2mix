@@ -22,7 +22,7 @@ dependencies:
   intl: ^0.18.1
 
 dev_dependencies:
-  bloc_test: ^9.1.6
+  bloc_test: ^9.1.7
   build_runner: ^2.4.8
   envied_generator: ^0.5.3
   flutter_test:
